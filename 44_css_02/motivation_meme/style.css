@@ -1,0 +1,26 @@
+
+
+html {
+    background-color: black;
+}
+
+h1 {
+    color: whitesmoke;
+    font-family: libre-Baskerville;
+}
+
+p {
+    color: whitesmoke;
+}
+
+.white_border_image {
+    margin-top: 100px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: whitesmoke;
+}
+
+.for_center {
+    display: grid;
+    place-items: center;
+}
