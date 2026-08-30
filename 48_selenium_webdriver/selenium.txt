@@ -1,0 +1,5 @@
+NOTE:-
+Skipping Selenium, web scrapping is not that useful for my goals as of now.
+If ever needed, I could come back and complete these chapters.
+
+
